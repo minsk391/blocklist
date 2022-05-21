@@ -60,7 +60,8 @@
 0.0.0.0 ereg.wip4.adobe.com
 0.0.0.0 ood.opsource.net
 0.0.0.0 practivate.adobe
-0.0.0.0 practivate.adobe.*
+0.0.0.0 practivate.adobe.com
+0.0.0.0 practivate.adobe.de
 0.0.0.0 practivate.adobe.ipp
 0.0.0.0 practivate.adobe.newoa
 0.0.0.0 practivate.adobe.ntp
